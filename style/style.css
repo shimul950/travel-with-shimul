@@ -1,0 +1,31 @@
+*{
+    font-family: "Mulish", sans-serif;
+}
+/* nav section */
+nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav-title{
+    display: flex;
+    gap: 18px;
+    
+}
+.nav-title>h1{
+    font-size: 40px;
+    font-weight: 800;
+}
+.orange{
+    color: rgb(255, 84, 0);
+}
+.nav-option{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+    gap: 18px;
+    color: rgb(66, 66, 71);
+}
+
+/* banner section */
